@@ -1,1 +1,1 @@
-# Random-Dicee
+# Javascript-Random
